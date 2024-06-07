@@ -1,0 +1,13 @@
+label {
+    text-align: center;
+}
+
+.termine {
+    text-decoration: line-through;
+}
+
+.date-time {
+    float: right;
+    font-size: 0.8em;
+    color: grey;
+}
